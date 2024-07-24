@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhav3289
-- 👀 I’m interested in coding,technology and science.
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in coding,technology and science
+- 🌱 I’m currently learning java and dsa
 - 📫 How to reach me @guptamadhav0039@gmail.com
 
 
