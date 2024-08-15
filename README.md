@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhav3289
-- 👀 I’m interested in coding,technology and science
-- 🌱 I’m currently learning java and dsa
-- 📫 How to reach me @guptamadhav0039@gmail.com
+- 👀 I’m interested in ...🤔...idk,
+- 🌱 I’m currently learning java,
+- 📫 How to reach me ...🤔...idk.
 
 
 <!---
